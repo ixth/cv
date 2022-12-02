@@ -1,0 +1,98 @@
+name: Deploy static content to Pages
+
+on:
+  push:
+    branches: ["main"]
+
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
+
+jobs:
+  build_html:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Generate HTML using Pandoc
+        uses: docker://ghcr.io/ixth/pandoc/weasyprint
+        with:
+          args: >-
+            --from gfm
+            --to html5
+            --css styles/style.css
+            --output www/cv.html
+            --standalone
+            --embed-resources
+            README.md
+      - name: Upload artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: www
+          path: www/cv.html
+
+  build_pdf:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Generate PDF using Pandoc
+        uses: docker://ghcr.io/ixth/pandoc/weasyprint
+        with:
+          args: >-
+            --from gfm
+            --to html5
+            --pdf-engine=weasyprint
+            --css styles/style.css
+            --output "www/Mikhail Menshikov - cv.pdf"
+            --embed-resources
+            --standalone
+            README.md
+      - name: Generate PDF using Pandoc
+        uses: docker://ghcr.io/ixth/pandoc/weasyprint
+        with:
+          args: >-
+            --from gfm
+            --to html5
+            --pdf-engine=weasyprint
+            --css styles/style.css
+            --output "www/Михаил Меньшиков - cv.pdf"
+            --embed-resources
+            --standalone
+            README-ru.md
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: www
+          path: www/*.pdf
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs:
+      - build_pdf
+      - build_html
+    steps:
+      - name: Download artifacts
+        uses: actions/download-artifact@v4
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: www/
+      - name: Deploy to GitHub Pages
+        uses: actions/deploy-pages@v4
