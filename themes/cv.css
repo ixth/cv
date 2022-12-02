@@ -1,0 +1,34 @@
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+h1, h2 {
+    border-bottom: 0;
+    padding: 0;
+}
+
+h1, h2, h3, h4 {
+    margin: 2ex 0 1ex;
+    font-weight: 500;
+}
+
+p { margin: 1ex 0 }
+
+h1 { font-size: 3.106em }
+h2 { font-size: 2.288em }
+h3 { font-size: 1.927em }
+h4 { font-size: 1.648em }
+
+h2 {
+    text-transform: uppercase;
+}
+
+h3 + h4 {
+    margin-top: -1ex;
+    font-size: 1.388em;
+    color: #555555;
+}
+
+#yandex-llc-ui-developer {
+    page-break-before: always;
+}
