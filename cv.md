@@ -4,10 +4,10 @@ With over a decade of experience and worked for Russia’s top market companies,
 
 ## Contact information
 
-* Email: ainop@ya.ru
-* Mobile: +382 68 639996
-* Linkedin: https://www.linkedin.com/in/iamixth/
-* Telegram: @vanilla_ixth
+* Email: [ainop@ya.ru](mailto:ainop+cv@ya.ru)
+* Telegram: [@vanilla_ixth](tg://resolve?domain=vanilla_ixth)
+* Mobile: [+382 68 639996](tel:+38268639996)
+* Linkedin: [https://www.linkedin.com/in/iamixth/](https://www.linkedin.com/in/iamixth/)
 
 
 ## Work Experience
