@@ -1,9 +1,6 @@
 # Mikhail Menshikov
 
-Having more than 10 years of experience and worked for Russia’s top market companies, I have adopted the best tech practices and gained experience working with large teams on big projects.
-
-I like building complex user interfaces, eliminating performance bottlenecks, sharing knowledge, and establishing an efficient working environment.
-
+With over a decade of experience and worked for Russia’s top market companies, I have adopted the best tech and work practices. I am skilled at building complex user interfaces, front-end APIs, optimizing and refactoring code to improve performance and maintainability, and fostering efficient working environments. I am eager to bring my skills and experience to a new company and make a meaningful contribution to their success.
 
 ## Contact information
 
