@@ -30,8 +30,7 @@ jobs:
           args: >-
             --from gfm
             --to html5
-            --css styles/markdown.css
-            --css styles/cv.css
+            --css styles/style.css
             --output www/cv.html
             --standalone
             --self-contained
@@ -56,8 +55,7 @@ jobs:
           args: >-
             --from gfm
             --to html5
-            --css styles/markdown.css
-            --css styles/cv.css
+            --css styles/style.css
             --output www/cv.pdf
             --self-contained
             --standalone
