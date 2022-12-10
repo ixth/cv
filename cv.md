@@ -48,7 +48,7 @@ At the Yandex Passport team I developed Auth portal: user account section and 
 
 
 ### Frontend developer
-#### TradingView LLC, Jul 2012–Mar 2015
+#### TradingView LLC, Oct 2011–Feb 2012
 
 Developed technical analysis tools UI using JQuery, Knockout.js, D3.js, and Canvas API.
 
