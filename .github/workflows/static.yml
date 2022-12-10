@@ -27,7 +27,7 @@ jobs:
       - name: Setup Pages
         uses: actions/configure-pages@v2
       - name: Generate HTML using Pandoc
-        uses: docker://pandoc/core:2.9
+        uses: docker://ghcr.io/44smkn/pandoc/ja:0.1.1
         with:
           args: >-
             --from gfm
@@ -42,7 +42,7 @@ jobs:
         with:
           args: >-
             --from gfm
-            --to pdf
+            --to html
             --css styles/markdown.css
             --css styles/cv.css
             --output www/cv.pdf
