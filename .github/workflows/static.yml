@@ -31,6 +31,7 @@ jobs:
         with:
           args: >-
             --to html5
+            --css styles/markdown.css
             --css styles/cv.css
             --output www/cv.html
             --standalone
@@ -39,6 +40,7 @@ jobs:
         uses: docker://pandoc/core:2.9
         with:
           args: >-
+            --css styles/markdown.css
             --css styles/cv.css
             --output www/cv.pdf
             README.md
