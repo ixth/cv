@@ -37,7 +37,7 @@ jobs:
             --standalone
             README.md
       - name: Generate PDF using Pandoc
-        uses: docker://pandoc/core:2.9
+        uses: docker://pandoc/latex:2.9
         with:
           args: >-
             --css styles/markdown.css
