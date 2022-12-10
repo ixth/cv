@@ -26,12 +26,24 @@ jobs:
         uses: actions/checkout@v3
       - name: Setup Pages
         uses: actions/configure-pages@v2
-      - name: Markdown to PDF and HTML
-        uses: BaileyJM02/markdown-to-pdf@v1.2.0
+      - name: Generate HTML using Pandoc
+        uses: docker://pandoc/core:2.9
         with:
-          input_path: README.md
-          output_dir: www/
-          theme: themes/cv.css
+          args: >-
+            --to html5
+            --css styles/markdown.css
+            --css styles/cv.css
+            --output www/cv.html
+            --standalone
+            README.md
+      - name: Generate PDF using Pandoc
+        uses: docker://pandoc/core:2.9
+        with:
+          args: >-
+            --css styles/markdown.css
+            --css styles/cv.css
+            --output www/cv.pdf
+            README.md
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
