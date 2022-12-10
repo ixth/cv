@@ -30,6 +30,7 @@ jobs:
         uses: docker://pandoc/core:2.9
         with:
           args: >-
+            --from gfm
             --to html5
             --css styles/markdown.css
             --css styles/cv.css
@@ -40,6 +41,8 @@ jobs:
         uses: docker://pandoc/latex:2.9
         with:
           args: >-
+            --from gfm
+            --to pdf
             --css styles/markdown.css
             --css styles/cv.css
             --output www/cv.pdf
