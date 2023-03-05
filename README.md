@@ -78,5 +78,5 @@ Developed technical analysis tools UI using JQuery, Knockout.js, D3.js, and Can
 
 ## Languages
 
-* English: C1
+* English: C1 (Advanced)
 * Russian: Native
