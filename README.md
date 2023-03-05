@@ -16,11 +16,15 @@ With over a decade of experience and worked for Russia’s top market companies,
 ### Senior Frontend Developer
 #### Yandex LLC, Oct 2021–Oct 2022
 
-At SMB team I was building landing site constructor and customer account site for small businesses. I was in charge of implementing new functionality, performing code reviews, investigating and fixing reported bugs.
+Yandex.Business is a suite of digital tools for businesses, including website analytics and advertising services.
+
+At Yandex.Business team I was building landing site constructor and customer account site for small businesses. I was in charge of implementing new functionality, performing code reviews, investigating and fixing reported bugs.
 
 
 ### Frontend Team Lead
 #### UNIWEB, Sep 2020–Sep 2021
+
+UNIWEB is an EdTech and HRTech company offering a range of HR solutions for recruitment, training, and development.
 
 At UNIWEB I set up Agile processes and built an efficient team of 5 frontend developers. Led staff education and evaluation platform from kickoff to its initial release of MVP.
 
@@ -30,6 +34,8 @@ As a team lead I interviewed, onboarded, and mentored new employees, maintain
 ### Senior Frontend Developer
 #### HeadHunter Group PLC, Aug 2016–Sep 2020
 
+HeadHunter (NASDAQ: HHR) is the leading online recruitment platform in Russia.
+
 At HeadHunter I worked on several projects: a dedicated mobile website for job applicants, an adaptation of the desktop website for mobile devices, a personal account site for large and premium employers, redesign of the company’s educational project.
 
 I was writing new functionality, unit-tests, reviewing my colleagues’ code, performing design reviews, providing expertise and estimates.
@@ -38,17 +44,23 @@ I was writing new functionality, unit-tests, reviewing my colleagues’ code, 
 ### Senior Frontend Developer
 #### Lazada RUS LLC, Jun 2015–Jul 2016
 
+Lazada Group is Southeast Asia’s leading eCommerce platform.
+
 At Lazada I developed and maintained a multi-regional eCommerce portal. I was in charge of rewriting cart checkout, implemented new order tracking, and developed a storefront management service.
 
 
 ### UI Developer
 #### Yandex LLC, Jul 2012–Mar 2015
 
+Yandex is a Russian multinational tech company offering a wide range of online services and products.
+
 At the Yandex Passport team I developed Auth portal: user account section and registration page, participated in development of OAuth token management UI. Additionally, I developed several landing pages and refactored Yandex’s RSS feed reader.
 
 
 ### Frontend Developer
-#### TradingView LLC, Oct 2011–Feb 2012
+#### TradingView Inc, Oct 2011–Feb 2012
+
+TradingView is a web-based platform for charting and technical analysis of financial markets.
 
 Developed technical analysis tools UI using JQuery, Knockout.js, D3.js, and Canvas API.
 
