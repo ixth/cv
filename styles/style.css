@@ -399,6 +399,11 @@ pre code {
   border: 0;
 }
 
+p,
+ul {
+  page-break-inside: avoid;
+}
+
 h1,
 h2,
 h3,
@@ -408,6 +413,7 @@ h6 {
   margin: 2ex 0 .85ex;
   font-weight: 500;
   line-height: 1.25;
+  page-break-after: avoid;
 }
 
 h1 {
@@ -444,4 +450,9 @@ h3 + h4 {
   margin-top: -1ex;
   font-size: 1.388em;
   color: #555555;
+}
+
+h2 + ul {
+  width: 80ch;
+  column-count: 2;
 }
