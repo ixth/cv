@@ -405,7 +405,7 @@ h3,
 h4,
 h5,
 h6 {
-  margin: 2ex 0 1ex;
+  margin: 2ex 0 .85ex;
   font-weight: 500;
   line-height: 1.25;
 }
@@ -434,6 +434,10 @@ h5 {
 h6 {
   font-size: 0.85em;
   color: #6a737d;
+}
+
+h2 + h3 {
+  margin-top: 0;
 }
 
 h3 + h4 {
