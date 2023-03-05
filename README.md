@@ -35,19 +35,19 @@ At HeadHunter I worked on several projects: a dedicated mobile website for j
 I was writing new functionality, unit-tests, reviewing my colleagues’ code, performing design reviews, providing expertise and estimates.
 
 
-### Senior frontend developer
+### Senior Frontend Developer
 #### Lazada RUS LLC, Jun 2015–Jul 2016
 
 At Lazada I developed and maintained a multi-regional eCommerce portal. I was in charge of rewriting cart checkout, implemented new order tracking, and developed a storefront management service.
 
 
-### UI developer
+### UI Developer
 #### Yandex LLC, Jul 2012–Mar 2015
 
 At the Yandex Passport team I developed Auth portal: user account section and registration page, participated in development of OAuth token management UI. Additionally, I developed several landing pages and refactored Yandex’s RSS feed reader.
 
 
-### Frontend developer
+### Frontend Developer
 #### TradingView LLC, Oct 2011–Feb 2012
 
 Developed technical analysis tools UI using JQuery, Knockout.js, D3.js, and Canvas API.
