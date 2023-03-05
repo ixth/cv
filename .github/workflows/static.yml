@@ -25,7 +25,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
       - name: Generate HTML using Pandoc
-        uses: docker://ghcr.io/44smkn/pandoc/ja:0.1.1
+        uses: docker://ghcr.io/ixth/pandoc/weasyprint
         with:
           args: >-
             --from gfm
@@ -50,11 +50,12 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
       - name: Generate PDF using Pandoc
-        uses: docker://ghcr.io/44smkn/pandoc/ja:0.1.1
+        uses: docker://ghcr.io/ixth/pandoc/weasyprint
         with:
           args: >-
             --from gfm
             --to html5
+            --pdf-engine=weasyprint
             --css styles/style.css
             --output www/cv.pdf
             --self-contained
