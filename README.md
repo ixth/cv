@@ -36,7 +36,7 @@ As a team lead I interviewed, onboarded, and mentored new employees, maintain
 ### Senior Frontend Developer
 #### HeadHunter Group PLC, Aug 2016–Sep 2020
 
-HeadHunter (NASDAQ: HHR) is the leading online recruitment platform in Russia.
+HeadHunter Group is a leading online recruitment platform in Russia.
 
 At HeadHunter I worked on several projects: a dedicated mobile website for job applicants, an adaptation of the desktop website for mobile devices, a personal account site for large and premium employers, redesign of the company’s educational project.
 
