@@ -16,6 +16,14 @@ With over a decade of experience and worked for Russia’s top market companies,
 
 
 ### Senior Frontend Developer
+#### inDriver Holdings Inc, Apr 2023–Now
+
+_inDrive.Services is a domestic services marketplace based on fair trade principles._
+
+As a Front-End Developer at inDrive.Services, I specialize in analyzing project requirements, implementing functionalities, enhancing user experience in collaboration with designers, offering technical guidance, optimizing code and application architecture, and CI/CD automation.
+
+
+### Senior Frontend Developer
 #### Yandex LLC, Oct 2021–Oct 2022
 
 _Yandex.Business is a suite of digital tools for businesses, including website analytics and advertising services._
@@ -70,10 +78,10 @@ Developed stock charts technical analysis tools using JQuery, Knockout.js, D3.j
 ## Skills
 
 * JavaScript (ES6+), TypeScript
-* React, MobX, Redux Toolkit
+* React, MobX, Redux Toolkit, React Query
 * Jest, QUnit, Sinon, Mocha
 * Webpack, babel
-* Node.js, Express.js, NestJS
+* Node.js, Express.js, NestJS, Next.js
 * Python, Flask, Django, Tornado
 * GitHub Actions, GitLab CI, Jenkins
 * Git, Docker, GNU Make, Bash
@@ -82,3 +90,4 @@ Developed stock charts technical analysis tools using JQuery, Knockout.js, D3.j
 
 * English: C1 (Advanced)
 * Russian: Native
+
