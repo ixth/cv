@@ -2,7 +2,7 @@
 title: Mikhail Menshikov
 ---
 
-With over a decade of experience and worked for Russia’s top market companies, I have adopted the best tech and work practices. I am skilled at building complex user interfaces, front-end APIs, optimizing and refactoring code to improve performance and maintainability, and fostering efficient working environments. I am eager to bring my skills and experience to a new company and make a meaningful contribution to their success.
+Frontend developer with nearly 15 years in the IT industry, having held roles at some of Russia's top market companies. Expertise in building complex user interfaces and front-end APIs. Skilled in enhancing code maintainability and ensuring efficient application performance. Committed to fostering productive working environments through tasks automation and knowledge sharing. Eager to make meaningful contributions to project successes.
 
 ## Contact information
 
