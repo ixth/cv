@@ -68,13 +68,11 @@ _TradingView — веб-платформа для анализа финансо
 
 ## Навыки
 
-- TypeScript, JavaScript, Python
-- React, TanStack Query, MobX, Redux Toolkit
-- Node.js, Next.js, Express.js, Fastify
-- Webpack, Babel
-- GitHub Actions, GitLab CI
-- Git, Docker, GNU Make, Bash
-
+- Языки программирования: TypeScript, JavaScript, Python
+- Frontend: React, TanStack Query, MobX, Redux Toolkit
+- Backend: Node.js, Next.js, Express.js, Fastify
+- DevOps: Docker, k8s, GitHub Actions, GitLab CI
+- Инструменты командной строки: Git, GNU Make, Bash
 
 ## Языки
 
