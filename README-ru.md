@@ -5,6 +5,15 @@ title: Михаил Меньшиков
 Frontend-инженер с 15-летним опытом в крупных IT-компаниях (Yandex, Lazada, HeadHunter, inDrive). Уверенно работаю с TypeScript, React, TanStack Query, Next.js, Docker и CI/CD. Специализируюсь на создании сложных интерфейсов, API, оптимизации приложений и улучшении процессов разработки. Имею опыт руководства командой и менторства. Ищу позицию в платформенной или продуктовой команде.
 
 
+## Навыки
+
+- Языки программирования: TypeScript, JavaScript, Python
+- Frontend: React,  TanStack Query, MobX, Redux Toolkit
+- Backend: Node.js, Next.js, Express.js, Fastify
+- DevOps: Docker, k8s, GitHub Actions, GitLab CI
+- Инструменты командной строки: Git, GNU Make, Bash
+
+
 ## Опыт работы
 
 
@@ -66,14 +75,6 @@ _TradingView — веб-платформа для анализа финансо
 
 Разрабатывал инструменты технического анализа графиков акций с использованием JQuery, Knockout.js, D3.js и Canvas API.
 
-
-## Навыки
-
-- Языки программирования: TypeScript, JavaScript, Python
-- Frontend: React, TanStack Query, MobX, Redux Toolkit
-- Backend: Node.js, Next.js, Express.js, Fastify
-- DevOps: Docker, k8s, GitHub Actions, GitLab CI
-- Инструменты командной строки: Git, GNU Make, Bash
 
 ## Языки
 
