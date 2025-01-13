@@ -85,7 +85,7 @@ Developed stock charts technical analysis tools using JQuery, Knockout.js, D3.j
 
 ## Contact information
 
-- Email: [ainop@ya.ru](mailto:ainop+cv@ya.ru)
+- Email: [ainop@ya.ru](mailto:ainop@ya.ru)
 - Telegram: [@vanilla_ixth](https://t.me/vanilla_ixth)
-- Linkedin: [https://linkedin.com/in/iamixth](https://linkedin.com/in/iamixth/)
+- LinkedIn: [https&colon;//linkedin.com/in/iamixth/](https://www.linkedin.com/in/iamixth/)
 - Mobile: [+7 705 524 32 73](tel:+77055243273)

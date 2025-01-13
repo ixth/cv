@@ -84,7 +84,7 @@ _TradingView — веб-платформа для анализа финансо
 
 ## Контактная информация
 
-- Email: [ainop@ya.ru](mailto:ainop+cv@ya.ru)
+- Email: [ainop@ya.ru](mailto:ainop@ya.ru)
 - Telegram: [@vanilla_ixth](https://t.me/vanilla_ixth)
-- Linkedin: [https://linkedin.com/in/iamixth](https://linkedin.com/in/iamixth/)
+- LinkedIn: [https&colon;//linkedin.com/in/iamixth/](https://www.linkedin.com/in/iamixth/)
 - Мобильный: [+7 705 524 32 73](tel:+77055243273)
