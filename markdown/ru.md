@@ -2,7 +2,7 @@
 title: Михаил Меньшиков
 ---
 
-Frontend-инженер с 15-летним опытом в крупных IT-компаниях (Yandex, Lazada, HeadHunter, inDrive).
+Frontend-инженер с опытом более 10 лет в крупных IT-компаниях (Yandex, Lazada, HeadHunter, inDrive).
 Уверенно работаю с TypeScript, React, TanStack Query, Next.js, Docker и CI/CD.
 Специализируюсь на создании сложных интерфейсов, API, оптимизации приложений и улучшении процессов разработки.
 Имею опыт руководства командой и менторства.
