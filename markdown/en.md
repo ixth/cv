@@ -8,15 +8,6 @@ Specialized in developing complex user interfaces, designing APIs, performance 
 Experienced in team leadership and mentorship.
 
 
-## Skills
-
-- Programming Languages: TypeScript, JavaScript, Python
-- Frontend: React, TanStack Query, MobX, Redux Toolkit
-- Backend: Node.js, Next.js, Express.js, Fastify
-- DevOps: Docker, k8s, GitHub Actions, GitLab CI
-- Command-Line Tools: Git, GNU Make, Bash
-
-
 ## Work Experience
 
 
@@ -88,6 +79,15 @@ Refactored a news feed reader service and created landing pages.
 _TradingView is a web-based platform for charting and technical analysis of financial markets._
 
 Developed stock charts technical analysis tools using JQuery, Knockout.js, D3.js, and Canvas API.
+
+
+## Skills
+
+- Programming Languages: TypeScript, JavaScript, Python
+- Frontend: React, TanStack Query, MobX, Redux Toolkit
+- Backend: Node.js, Next.js, Express.js, Fastify
+- DevOps: Docker, k8s, GitHub Actions, GitLab CI
+- Command-Line Tools: Git, GNU Make, Bash
 
 
 ## Languages

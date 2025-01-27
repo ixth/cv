@@ -147,10 +147,6 @@ h3 + h4 {
     font: normal 9.2pt/1.5 'DejaVu Sans', sans-serif;
   }
 
-  ul {
-    page-break-inside: avoid;
-  }
-
   h1,
   h2,
   h3,
@@ -158,6 +154,15 @@ h3 + h4 {
   h5,
   h6 {
     page-break-after: avoid;
+  }
+
+  * + ul,
+  * + p {
+    page-break-before: avoid;
+  }
+
+  ul {
+    page-break-inside: avoid;
   }
 
   #title-block-header h1 {
