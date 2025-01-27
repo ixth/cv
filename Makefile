@@ -23,6 +23,7 @@ $(PDF)/%.pdf: $(MARKDOWN)/%.md
 		--from gfm \
 		--to html5 \
 		--css styles/style.css \
+		--quiet \
 		--embed-resources \
 		--standalone \
 		--output $@ \
@@ -33,6 +34,7 @@ $(WWW)/%.html: $(MARKDOWN)/ru.md
 		--from gfm \
 		--to html5 \
 		--css styles/style.css \
+		--quiet \
 		--embed-resources \
 		--standalone \
 		--output $@ \
