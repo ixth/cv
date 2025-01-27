@@ -2,7 +2,19 @@
 title: Mikhail Menshikov
 ---
 
-Frontend developer with nearly 15 years in the IT industry, having held roles at some of Russia's top market companies. Expertise in building complex user interfaces and front-end APIs. Skilled in enhancing code maintainability and ensuring efficient application performance. Committed to fostering productive working environments through tasks automation and knowledge sharing.
+Frontend Engineer with 10+ years of experience in leading IT companies (Yandex, Lazada, HeadHunter, inDrive).
+Proficient in TypeScript, React, TanStack Query, Next.js, Docker, and CI/CD pipelines.
+Specialized in developing complex user interfaces, designing APIs, performance optimization, and improving development workflows.
+Experienced in team leadership and mentorship.
+
+
+## Skills
+
+- Programming Languages: TypeScript, JavaScript, Python
+- Frontend: React, TanStack Query, MobX, Redux Toolkit
+- Backend: Node.js, Next.js, Express.js, Fastify
+- DevOps: Docker, k8s, GitHub Actions, GitLab CI
+- Command-Line Tools: Git, GNU Make, Bash
 
 
 ## Work Experience
@@ -13,14 +25,18 @@ Frontend developer with nearly 15 years in the IT industry, having held roles at
 
 _inDrive.Services is a domestic services marketplace based on fair trade principles._
 
-I worked on supporting the web version of the product, including adding new features, implementing localization for multiple languages, and improving SEO. I enhanced performance by introducing SSR and caching. I contributed to DevOps processes by maintaining Docker configurations, introducing best CI/CD practices, and migrating to GitHub Actions, reducing the release cycle from biweekly to daily releases. Additionally, I integrated Prometheus for monitoring and improved logging to enhance observability.
+Developed and maintained the web version of the product, including the service catalog, order builder, and user account pages.
+Improved SEO by implementing SSR, meta tags, microdata, and SEO-optimized texts, leading to a steady growth in organic traffic.
+Migrated the project to GitHub Actions and implemented CI/CD, reducing the release cycle from two weeks to daily deployments.
+Integrated observability tools: Sentry, Grafana, and Kibana.
+
 
 ### Senior Frontend Developer
 #### Yandex.Business, 2021/10–2022/10
 
 _Yandex.Business is a suite of digital tools for businesses, including website analytics and advertising services._
 
-At Yandex.Business team I was building landing site constructor and customer account site for small businesses. I was in charge of implementing new functionality, performing code reviews, investigating and fixing reported bugs.
+Developed a personal account for small businesses, including a landing page builder and an ad campaign editor.
 
 
 ### Frontend Team Lead
@@ -28,9 +44,10 @@ At Yandex.Business team I was building landing site constructor and customer a
 
 _UNIWEB is an EdTech and HRTech company offering a range of HR solutions for recruitment, training, and development._
 
-I set up Agile processes and built an efficient team of 5 frontend developers. Led staff education and evaluation platform from kickoff to its initial release of MVP.
-
-As a team lead I interviewed, onboarded, and mentored new employees, maintained a comfortable development environment, and provided tech expertise and estimates.
+Introduced Agile processes and built an efficient team of 5 frontend developers.
+Led the development of a platform for employee training and assessment, from inception to MVP release.
+Conducted interviews, onboarding, and mentorship for new team members.
+Maintained a supportive work environment, provided technical expertise, and performed task estimations.
 
 
 ### Senior Frontend Developer
@@ -38,9 +55,10 @@ As a team lead I interviewed, onboarded, and mentored new employees, maintain
 
 _HeadHunter Group is a leading online recruitment platform in Russia._
 
-I worked on several projects: a dedicated mobile website for job applicants, an adaptation of the desktop website for mobile devices, a personal account site for large and premium employers, redesign of the company’s educational project.
-
-I was writing new functionality, unit-tests, reviewing my colleagues’ code, performing design reviews, providing expertise and estimates.
+Developed the mobile site for job applicants and adapted the desktop site for mobile devices.
+Built a personal account platform for large and premium employers.
+Led the redesign of the company’s educational project.
+Implemented new functionality, wrote unit tests, conducted code reviews, analyzed design solutions, and provided technical expertise and task estimations.
 
 
 ### Senior Frontend Developer
@@ -48,7 +66,10 @@ I was writing new functionality, unit-tests, reviewing my colleagues’ code, 
 
 _Lazada Group is Southeast Asia’s leading eCommerce platform._
 
-I developed and maintained a multi-regional eCommerce portal. I was in charge of rewriting cart checkout, implemented new order tracking, and developed a storefront management service.
+Developed and maintained a multi-regional eCommerce portal.
+Revamped the shopping cart and checkout process.
+Created a new order tracking module.
+Developed a storefront management service.
 
 
 ### UI Developer
@@ -56,7 +77,9 @@ I developed and maintained a multi-regional eCommerce portal. I was in charg
 
 _Yandex is a Russian multinational tech company offering a wide range of online services and products._
 
-At the Yandex.Passport team I developed Auth portal: user account section and registration page, participated in development of OAuth token management UI. Additionally, I developed several landing pages and refactored Yandex’s RSS feed reader.
+Developed the Yandex.Passport authorization portal, including the account section and registration page.
+Built UIs for managing OAuth tokens.
+Refactored a news feed reader service and created landing pages.
 
 
 ### Frontend Developer
@@ -67,19 +90,9 @@ _TradingView is a web-based platform for charting and technical analysis of fina
 Developed stock charts technical analysis tools using JQuery, Knockout.js, D3.js, and Canvas API.
 
 
-## Skills
-
-- TypeScript, JavaScript, Python
-- React, TanStack Query, MobX, Redux Toolkit
-- Node.js, Next.js, Express.js, Fastify
-- Webpack, Babel
-- GitHub Actions, GitLab CI
-- Git, Docker, GNU Make, Bash
-
-
 ## Languages
 
-- English: C1 (Advanced)
+- English: C1 (Advanced)
 - Russian: Native
 
 
