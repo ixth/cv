@@ -1,35 +1,52 @@
+MARKDOWN := markdown
+WWW := www
+PDF := $(WWW)/pdf
+
+pandoc = docker run --volume .:/data ghcr.io/ixth/pandoc/weasyprint
+
 .PHONY: all clean watch
+.SECONDEXPANSION:
+.PRECIOUS: $(PDF)/%.pdf
 
-all: www/cv.html "www/Mikhail\ Menshikov\ -\ cv.pdf" "www/Михаил\ Меньшиков\ -\ cv.pdf"
+all: \
+	$(WWW)/cv.html \
+	$(PDF)/en.pdf \
+	$(PDF)/ru.pdf \
+	$(PDF)/ru-senior.pdf \
+	$(PDF)/ru-tech-lead.pdf \
+	$(WWW)/Mikhail\ Menshikov\ -\ cv.pdf \
+	$(WWW)/Михаил\ Меньшиков\ -\ cv.pdf
 
-"www/Mikhail\ Menshikov\ -\ cv.pdf": MARKDOWN_FILE = markdown/en.md
-"www/Михаил\ Меньшиков\ -\ cv.pdf": MARKDOWN_FILE = markdown/ru.md
-"www/%.pdf":
-	docker run --volume .:/data ghcr.io/ixth/pandoc/weasyprint \
-		--from gfm \
-		--to html5 \
+$(PDF)/%.pdf: $(MARKDOWN)/%.md
+	$(pandoc) \
 		--pdf-engine=weasyprint \
-		--css styles/style.css \
-		--output $@ \
-		--embed-resources \
-		--standalone \
-		$(MARKDOWN_FILE)
-
-www/cv.html: MARKDOWN_FILE = markdown/ru.md
-www/%.html:
-	docker run --volume .:/data ghcr.io/ixth/pandoc/weasyprint \
 		--from gfm \
 		--to html5 \
 		--css styles/style.css \
-		--output $@ \
 		--embed-resources \
 		--standalone \
-		$(MARKDOWN_FILE)
+		--output $@ \
+		$<
+
+$(WWW)/%.html: $(MARKDOWN)/ru.md
+	$(pandoc) \
+		--from gfm \
+		--to html5 \
+		--css styles/style.css \
+		--embed-resources \
+		--standalone \
+		--output $@ \
+		$<
+
+$(WWW)/Михаил\ Меньшиков\ -\ cv.pdf: SRC_FILE = $(PDF)/ru.pdf
+$(WWW)/Mikhail\ Menshikov\ -\ cv.pdf: SRC_FILE = $(PDF)/en.pdf
+$(WWW)/%.pdf: $$(SRC_FILE)
+	ln -fs "$$(realpath --no-symlinks --relative-to=$(WWW) $<)" "$@"
 
 clean:
-	rm www/*.pdf www/*.html
+	rm $(PDF)/*.pdf $(WWW)/*.{pdf,html}
 
 watch:
-	(fswatch ./markdown/en.md | xargs -n 1 make -B "www/Mikhail Menshikov - cv.pdf" www/cv.html) & \
-	(fswatch ./markdown/ru.md | xargs -n 1 make -B "www/Михаил Меньшиков - cv.pdf") & \
+	(fswatch $(MARKDOWN)/en.md | xargs -n 1 make -B "$(WWW)/en.pdf" $(WWW)/cv.html) & \
+	(fswatch $(MARKDOWN)/ru.md | xargs -n 1 make -B "$(WWW)/ru.pdf") & \
 	(fswatch ./styles/* | xargs -n 1 make -B all)
