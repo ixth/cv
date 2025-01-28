@@ -11,8 +11,8 @@ Experienced in team leadership and mentorship.
 ## Work Experience
 
 
-### Senior Frontend Developer
-#### inDrive.Services, 2023/04–Now
+### inDrive.Services
+#### Senior Frontend Developer, Apr 2023–Now
 
 _inDrive.Services is a domestic services marketplace based on fair trade principles._
 
@@ -22,16 +22,16 @@ Migrated the project to GitHub Actions and implemented CI/CD, reducing the rele
 Integrated observability tools: Sentry, Grafana, and Kibana.
 
 
-### Senior Frontend Developer
-#### Yandex.Business, 2021/10–2022/10
+### Yandex.Business
+#### Senior Frontend Developer, Nov 2021–Nov 2022
 
 _Yandex.Business is a suite of digital tools for businesses, including website analytics and advertising services._
 
 Developed a personal account for small businesses, including a landing page builder and an ad campaign editor.
 
 
-### Frontend Team Lead
-#### UNIWEB, 2020/09–2021/09
+### UNIWEB
+#### Frontend Team Lead, Sep 2020–Sep 2021
 
 _UNIWEB is an EdTech and HRTech company offering a range of HR solutions for recruitment, training, and development._
 
@@ -41,8 +41,8 @@ Conducted interviews, onboarding, and mentorship for new team members.
 Maintained a supportive work environment, provided technical expertise, and performed task estimations.
 
 
-### Senior Frontend Developer
-#### HeadHunter Group, 2016/08–2020/09
+### HeadHunter Group
+#### Senior Frontend Developer, Aug 2016–Sep 2020
 
 _HeadHunter Group is a leading online recruitment platform in Russia._
 
@@ -52,8 +52,8 @@ Led the redesign of the company’s educational project.
 Implemented new functionality, wrote unit tests, conducted code reviews, analyzed design solutions, and provided technical expertise and task estimations.
 
 
-### Senior Frontend Developer
-#### Lazada, 2015/06–2016/07
+### Lazada
+#### Senior Frontend Developer, Jun 2015–2016 Jul
 
 _Lazada Group is Southeast Asia’s leading eCommerce platform._
 
@@ -63,8 +63,8 @@ Created a new order tracking module.
 Developed a storefront management service.
 
 
-### UI Developer
-#### Yandex.Passport, 2012/07–2015/03
+### Yandex.Passport
+#### UI Developer, Jul 2012–Mar 2015
 
 _Yandex is a Russian multinational tech company offering a wide range of online services and products._
 
@@ -73,8 +73,8 @@ Built UIs for managing OAuth tokens.
 Refactored a news feed reader service and created landing pages.
 
 
-### Frontend Developer
-#### TradingView, 2011/10–2012/02
+### TradingView
+#### Frontend Developer, Nov 2011–Feb 2012
 
 _TradingView is a web-based platform for charting and technical analysis of financial markets._
 
