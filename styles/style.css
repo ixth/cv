@@ -144,7 +144,7 @@ h3 + h4 {
 
 @media print {
   body {
-    font: normal 9.2pt/1.5 'DejaVu Sans', sans-serif;
+    font: normal 9pt/1.5 'DejaVu Sans', sans-serif;
   }
 
   h1,
