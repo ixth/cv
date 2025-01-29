@@ -8,6 +8,15 @@ Frontend-инженер с опытом более 10 лет в крупны�
 Имею опыт руководства командой и менторства.
 
 
+## Навыки
+
+- Языки программирования: TypeScript, JavaScript, Python
+- Frontend: React, TanStack Query, MobX, Redux Toolkit
+- Backend: Node.js, Next.js, Express.js, Fastify
+- DevOps: Docker, k8s, GitHub Actions, GitLab CI
+- Инструменты командной строки: Git, GNU Make, Bash
+
+
 ## Опыт работы
 
 
