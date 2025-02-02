@@ -21,7 +21,7 @@ Experienced in team leadership and mentorship.
 
 
 ### inDrive.Services
-#### Senior Frontend Developer, Apr 2023–Now
+#### Senior Frontend Developer, Apr 2023 – Now
 
 _inDrive.Services is a domestic services marketplace based on fair trade principles._
 
@@ -32,7 +32,7 @@ Integrated observability tools: Sentry, Grafana, and Kibana.
 
 
 ### Yandex.Business
-#### Senior Frontend Developer, Nov 2021–Nov 2022
+#### Senior Frontend Developer, Nov 2021 – Nov 2022
 
 _Yandex.Business is a suite of digital tools for businesses, including website analytics and advertising services._
 
@@ -40,7 +40,7 @@ Developed a personal account for small businesses, including a landing page bu
 
 
 ### UNIWEB
-#### Frontend Team Lead, Sep 2020–Sep 2021
+#### Frontend Team Lead, Sep 2020 – Sep 2021
 
 _UNIWEB is an EdTech and HRTech company offering a range of HR solutions for recruitment, training, and development._
 
@@ -51,7 +51,7 @@ Maintained a supportive work environment, provided technical expertise, and per
 
 
 ### HeadHunter Group
-#### Senior Frontend Developer, Aug 2016–Sep 2020
+#### Senior Frontend Developer, Aug 2016 – Sep 2020
 
 _HeadHunter Group is a leading online recruitment platform in Russia._
 
@@ -62,7 +62,7 @@ Implemented new functionality, wrote unit tests, conducted code reviews, analyze
 
 
 ### Lazada
-#### Senior Frontend Developer, Jun 2015–2016 Jul
+#### Senior Frontend Developer, Jun 2015 – 2016 Jul
 
 _Lazada Group is Southeast Asia’s leading eCommerce platform._
 
@@ -73,7 +73,7 @@ Developed a storefront management service.
 
 
 ### Yandex.Passport
-#### UI Developer, Jul 2012–Mar 2015
+#### UI Developer, Jul 2012 – Mar 2015
 
 _Yandex is a Russian multinational tech company offering a wide range of online services and products._
 
@@ -83,7 +83,7 @@ Refactored a news feed reader service and created landing pages.
 
 
 ### TradingView
-#### Frontend Developer, Nov 2011–Feb 2012
+#### Frontend Developer, Nov 2011 – Feb 2012
 
 _TradingView is a web-based platform for charting and technical analysis of financial markets._
 
