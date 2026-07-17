@@ -26,15 +26,12 @@ _DigitalBizFactory is an IT Services and Consulting company._
 Worked on a government-scale digital migration and identity platform for foreign citizens, delivering complex user journeys
 including authentication, identity verification, IIN application, registration, and personal cabinet functionality.
 
-Key achievements
-
-- Implemented identity verification workflows integrating biometric verification (VisionLabs LUNA), OCR/RFID document recognition (Regula), and backend verification services.
-- Built reusable frontend infrastructure, including OpenAPI-generated clients (Orval), feature flags, localization, runtime configuration, and embeddable widgets.
-- Enabled parallel frontend/backend development by introducing TypeSpec API contracts and MSW-based API mocking.
-- Designed TypeSpec API specifications used as a contract between frontend and backend teams.
-- Delivered authentication and biometric verification workflows while driving frontend architecture through continuous refactoring and technical design.
-- Established CI/CD pipelines for Docker and Android builds, deployment automation, and developer tooling.
-- Reviewed code, mentored teammates, and onboarded frontend engineers.
+- Implemented identity verification workflows integrating biometric verification (VisionLabs LUNA), OCR/RFID document recognition (Regula), and backend verification services
+- Built reusable frontend infrastructure, including OpenAPI-generated clients (Orval), feature flags, localization, runtime configuration, and embeddable widgets
+- Enabled parallel frontend/backend development by introducing TypeSpec API contracts and MSW-based API mocking
+- Designed TypeSpec API specifications used as a contract between frontend and backend teams
+- Established CI/CD pipelines and deployment automation for Docker and Android builds
+- Reviewed code, mentored teammates, and onboarded frontend engineers
 
 
 ### inDrive.Services
@@ -44,7 +41,9 @@ _inDrive.Services was a domestic services marketplace based on fair trade princi
 
 Developed customer-facing features for a large-scale services marketplace, including service discovery, order creation, user accounts, and provider onboarding.
 Improved SEO by implementing SSR, metadata, structured data, and SEO-optimized content, contributing to steady organic traffic growth.
+
 Introduced GitHub Actions CI/CD, enabling daily deployments instead of bi-weekly releases.
+
 Integrated observability tools: Sentry, Grafana, and Kibana.
 
 
