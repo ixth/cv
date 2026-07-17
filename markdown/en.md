@@ -11,7 +11,7 @@ Experienced in team leadership and mentorship.
 ## Skills
 
 - Programming Languages: TypeScript, JavaScript, Python
-- Frontend: React, TanStack Query, MobX, Redux Toolkit
+- Frontend: React, TanStack Query, Effector, MobX, Redux Toolkit
 - Backend: Node.js, Next.js, Express.js, Fastify
 - DevOps: Docker, k8s, GitHub Actions, GitLab CI
 - Command-Line Tools: Git, GNU Make, Bash
@@ -20,10 +20,28 @@ Experienced in team leadership and mentorship.
 ## Work Experience
 
 
-### inDrive.Services
-#### Senior Frontend Developer, Apr 2023 – Now
+### Digital Biz Factory
+#### Senior Frontend Developer, Feb 2025 – Now
 
-_inDrive.Services is a domestic services marketplace based on fair trade principles._
+_DigitalBizFactory is an IT Services and Consulting company._
+
+Worked on a government-scale digital migration and identity platform for foreign citizens, delivering complex user journeys
+including authentication, identity verification, IIN application, registration, and personal cabinet functionality.
+
+Key achievements
+
+* Led frontend implementation of identity verification workflows, integrating biometric verification (VisionLabs LUNA), document OCR/RFID recognition (Regula), and backend verification services.
+* Built reusable frontend platform infrastructure, including OpenAPI-generated clients (Orval), feature flags, localization, runtime configuration, and embeddable widgets.
+* Optimized frontend delivery by enabling parallel frontend/backend development using MSW-based API mocking and TypeSpec API contracts.
+* Delivered authentication and biometric verification workflows while driving frontend architecture through continuous refactoring and technical design.
+* Established CI/CD pipelines for Docker and Android builds, deployment automation, and developer tooling.
+* Reviewed code, mentored teammates, and onboarded frontend engineers.
+
+
+### inDrive.Services
+#### Senior Frontend Developer, Apr 2023 – Feb 2025
+
+_inDrive.Services was a domestic services marketplace based on fair trade principles._
 
 Developed and maintained the web version of the product, including the service catalog, order builder, and user account pages.
 Improved SEO by implementing SSR, meta tags, microdata, and SEO-optimized texts, leading to a steady growth in organic traffic.
