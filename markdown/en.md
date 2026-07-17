@@ -2,19 +2,17 @@
 title: Mikhail Menshikov
 ---
 
-Frontend Engineer with 10+ years of experience in leading IT companies (Yandex, Lazada, HeadHunter, inDrive).
-Proficient in TypeScript, React, TanStack Query, Next.js, Docker, and CI/CD pipelines.
-Specialized in developing complex user interfaces, designing APIs, performance optimization, and improving development workflows.
-Experienced in team leadership and mentorship.
+Frontend engineer with 14+ years of experience building large-scale web applications at Yandex, HeadHunter, Lazada, and inDrive.
+Specializes in frontend architecture, developer experience, API design, authentication and identity systems, and CI/CD.
+Experienced in leading technical initiatives, mentoring engineers, and building maintainable frontend platforms.
 
 
 ## Skills
 
-- Programming Languages: TypeScript, JavaScript, Python
-- Frontend: React, TanStack Query, Effector, MobX, Redux Toolkit
-- Backend: Node.js, Next.js, Express.js, Fastify
-- DevOps: Docker, k8s, GitHub Actions, GitLab CI
-- Command-Line Tools: Git, GNU Make, Bash
+- Languages: TypeScript, JavaScript, Python
+- Frontend: React, TanStack Query, Effector, Redux Toolkit
+- APIs: REST, OpenAPI, TypeSpec, Orval, MSW
+- Build & Infrastructure: Webpack, Docker, GitHub Actions, GitLab CI
 
 
 ## Work Experience
@@ -30,12 +28,13 @@ including authentication, identity verification, IIN application, registration, 
 
 Key achievements
 
-* Led frontend implementation of identity verification workflows, integrating biometric verification (VisionLabs LUNA), document OCR/RFID recognition (Regula), and backend verification services.
-* Built reusable frontend platform infrastructure, including OpenAPI-generated clients (Orval), feature flags, localization, runtime configuration, and embeddable widgets.
-* Optimized frontend delivery by enabling parallel frontend/backend development using MSW-based API mocking and TypeSpec API contracts.
-* Delivered authentication and biometric verification workflows while driving frontend architecture through continuous refactoring and technical design.
-* Established CI/CD pipelines for Docker and Android builds, deployment automation, and developer tooling.
-* Reviewed code, mentored teammates, and onboarded frontend engineers.
+- Implemented identity verification workflows integrating biometric verification (VisionLabs LUNA), OCR/RFID document recognition (Regula), and backend verification services.
+- Built reusable frontend infrastructure, including OpenAPI-generated clients (Orval), feature flags, localization, runtime configuration, and embeddable widgets.
+- Enabled parallel frontend/backend development by introducing TypeSpec API contracts and MSW-based API mocking.
+- Designed TypeSpec API specifications used as a contract between frontend and backend teams.
+- Delivered authentication and biometric verification workflows while driving frontend architecture through continuous refactoring and technical design.
+- Established CI/CD pipelines for Docker and Android builds, deployment automation, and developer tooling.
+- Reviewed code, mentored teammates, and onboarded frontend engineers.
 
 
 ### inDrive.Services
@@ -43,9 +42,9 @@ Key achievements
 
 _inDrive.Services was a domestic services marketplace based on fair trade principles._
 
-Developed and maintained the web version of the product, including the service catalog, order builder, and user account pages.
-Improved SEO by implementing SSR, meta tags, microdata, and SEO-optimized texts, leading to a steady growth in organic traffic.
-Migrated the project to GitHub Actions and implemented CI/CD, reducing the release cycle from two weeks to daily deployments.
+Developed customer-facing features for a large-scale services marketplace, including service discovery, order creation, user accounts, and provider onboarding.
+Improved SEO by implementing SSR, metadata, structured data, and SEO-optimized content, contributing to steady organic traffic growth.
+Introduced GitHub Actions CI/CD, enabling daily deployments instead of bi-weekly releases.
 Integrated observability tools: Sentry, Grafana, and Kibana.
 
 
@@ -54,7 +53,7 @@ Integrated observability tools: Sentry, Grafana, and Kibana.
 
 _Yandex.Business is a suite of digital tools for businesses, including website analytics and advertising services._
 
-Developed a personal account for small businesses, including a landing page builder and an ad campaign editor.
+Developed customer-facing functionality for Yandex Business, including landing page editing, advertising campaign management, and business account tools.
 
 
 ### UNIWEB
@@ -62,7 +61,7 @@ Developed a personal account for small businesses, including a landing page bu
 
 _UNIWEB is an EdTech and HRTech company offering a range of HR solutions for recruitment, training, and development._
 
-Introduced Agile processes and built an efficient team of 5 frontend developers.
+Established frontend engineering practices, code review process, mentoring, and Agile development workflow.
 Led the development of a platform for employee training and assessment, from inception to MVP release.
 Conducted interviews, onboarding, and mentorship for new team members.
 Maintained a supportive work environment, provided technical expertise, and performed task estimations.
@@ -76,11 +75,11 @@ _HeadHunter Group is a leading online recruitment platform in Russia._
 Developed the mobile site for job applicants and adapted the desktop site for mobile devices.
 Built a personal account platform for large and premium employers.
 Led the redesign of the company’s educational project.
-Implemented new functionality, wrote unit tests, conducted code reviews, analyzed design solutions, and provided technical expertise and task estimations.
+Designed and implemented new product features, conducted code reviews, wrote unit tests, and participated in architecture discussions.
 
 
 ### Lazada
-#### Senior Frontend Developer, Jun 2015 – 2016 Jul
+#### Senior Frontend Developer, Jun 2015 – Jul 2016
 
 _Lazada Group is Southeast Asia’s leading eCommerce platform._
 
@@ -95,7 +94,7 @@ Developed a storefront management service.
 
 _Yandex is a Russian multinational tech company offering a wide range of online services and products._
 
-Developed the Yandex.Passport authorization portal, including the account section and registration page.
+Developed user-facing authentication and account management interfaces for Yandex Passport.
 Built UIs for managing OAuth tokens.
 Refactored a news feed reader service and created landing pages.
 
@@ -105,7 +104,7 @@ Refactored a news feed reader service and created landing pages.
 
 _TradingView is a web-based platform for charting and technical analysis of financial markets._
 
-Developed stock charts technical analysis tools using JQuery, Knockout.js, D3.js, and Canvas API.
+Developed charting and technical analysis tools using jQuery, Knockout.js, D3.js, and Canvas API.
 
 
 ## Languages
